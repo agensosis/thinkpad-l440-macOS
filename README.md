@@ -33,3 +33,5 @@
  - Security - Secure Boot : Disabled
  - Startup > UEFI/Legacy Boot : UEFI Only
  
+## Credits
+- [acidanthera](https://github.com/acidanthera)
