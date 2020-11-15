@@ -1,5 +1,6 @@
 # macOS Catalina on Lenovo ThinkPad L440
   with OpenCore 0.6.3
+  ![picture](http://stash.xxxxxx.com/projects/zzzzz/img/abc.png)
 ##  Whats working
  - Intel HD4600
  - Audio + Mircophone (Need to switch manually)
