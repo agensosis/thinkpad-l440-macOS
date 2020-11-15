@@ -24,11 +24,11 @@
           > USB > USB 3.0 Mode : Enable
           > Serial ATA > Mode : AHCI
           > Intel (R) Smart Connect Technology : Disable
- - Security > Security Chip : Disabled
-            > Virtualization : Enabled
-            > IO Port Access > Fingerprint : disabled
-            > Internal Device Access : Disabled
-            > Anti theft : Disable all include Computrace
-            > Secure Boot : Disabled
+ - Security - Security Chip : Disabled
+            - Virtualization : Enabled
+            - IO Port Access > Fingerprint : disabled
+            - Internal Device Access : Disabled
+            - Anti theft : Disable all include Computrace
+            - Secure Boot : Disabled
  - Startup > UEFI/Legacy Boot : UEFI Only
  
