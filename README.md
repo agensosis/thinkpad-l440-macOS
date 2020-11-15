@@ -21,14 +21,14 @@
  
  ## UEFI Configuration
  - Config > Network > Wake on LAN : Disabled
-          > USB > USB 3.0 Mode : Enable
-          > Serial ATA > Mode : AHCI
-          > Intel (R) Smart Connect Technology : Disable
+ - Config > USB > USB 3.0 Mode : Enable
+ - Config > Serial ATA > Mode : AHCI
+ - Config > Intel (R) Smart Connect Technology : Disable
  - Security - Security Chip : Disabled
-            - Virtualization : Enabled
-            - IO Port Access > Fingerprint : disabled
-            - Internal Device Access : Disabled
-            - Anti theft : Disable all include Computrace
-            - Secure Boot : Disabled
+ - Security - Virtualization : Enabled
+ - Security - IO Port Access > Fingerprint : disabled
+ - Security - Internal Device Access : Disabled
+ - Security - Anti theft : Disable all include Computrace
+ - Security - Secure Boot : Disabled
  - Startup > UEFI/Legacy Boot : UEFI Only
  
